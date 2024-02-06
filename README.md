@@ -10,3 +10,6 @@ Resolving the merge
 * Fun
 * With markdown
 * lists!
+
+**new stuff, in bold!**
+*this is italics*
